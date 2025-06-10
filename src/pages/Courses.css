@@ -1,0 +1,35 @@
+.main{
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+  max-width: 900px;
+  width: 1400px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  justify-content:center;
+  align-items: center;
+}
+
+.h1{
+  color: blue;
+  text-align: center;
+  font-size-adjust: 0.400;
+}
+
+.p{
+  text-align: left;
+}
+
+.max{
+  text-align: left;
+  font-size-adjust: 0.300;
+}
+
+.button{
+  background-color:rgb(13, 128, 0);
+}
+
+.pin{
+  text-align: left;
+}
+
+
