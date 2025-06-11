@@ -10,6 +10,8 @@ const App =() =>{
     <div className="main">
       <Router>
         <Routes>
+          <Route path="/" element={<Home/>} />
+
           <Route path="/home" element={<Home/>} />
           <Route path="/about" element={<About/>}/>
           <Route path="/courses" element={<Courses/>}/>
